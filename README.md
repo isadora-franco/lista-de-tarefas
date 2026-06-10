@@ -23,15 +23,4 @@ Uma aplicação web de lista de tarefas feita com HTML, CSS e TypeScript puro. A
 - HTML5
 - CSS3
 
-├── src/
-│   ├── index.html
-│   ├── index.ts
-│   └── style.css
-├── build/
-│   └── index.js
-└── tsconfig.json
-```
-
----
-
 Desenvolvido por **Isadora Franco**
