@@ -23,29 +23,6 @@ Uma aplicação web de lista de tarefas feita com HTML, CSS e TypeScript puro. A
 - HTML5
 - CSS3
 
-## Como rodar localmente
-
-**Pré-requisitos:** ter o [Node.js](https://nodejs.org) instalado.
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/lista-de-tarefas.git
-
-# Entre na pasta
-cd lista-de-tarefas
-
-# Instale o TypeScript globalmente (caso não tenha)
-npm install -g typescript
-
-# Compile o TypeScript
-tsc
-
-# Abra o arquivo src/index.html no navegador
-```
-
-## Estrutura de pastas
-
-```
 ├── src/
 │   ├── index.html
 │   ├── index.ts
