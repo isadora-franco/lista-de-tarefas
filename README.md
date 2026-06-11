@@ -4,7 +4,7 @@ Projeto desenvolvido durante a terceira semana de capacitação da área de Desk
 
 ## Sobre o projeto
 
-Uma aplicação web de lista de tarefas feita com HTML, CSS e TypeScript puro. A ideia era ir além do básico e entregar algo funcional de verdade, então acabei adicionando algumas funcionalidades extras além do que foi pedido.
+Uma aplicação web de lista de tarefas feita com HTML, CSS e TypeScript puro. A ideia era ir além do básico e entregar algo funcional de verdade, então adicionei filtros e um "checklist".
 
 ## Funcionalidades
 
